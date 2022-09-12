@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #2b2922;
+    color: #FFFFFF;
+    font-family: "Montserrat", sans-serif;
+}
+.container{
+    margin-left: 80px;
+}
+.navbar{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.navbar .logo img{
+    width: 120px;
+    margin-left: 30px;
+}
+.navbar .list{
+    display: flex;
+    list-style: none;
+    gap:40px;
+    margin-right: 10px;
+    color: #817e71;
+    font-size: 18px;
+    align-items: center;
+}
+.navbar .list .list-item:first-child{
+    font-weight: 800;
+    color: #bdbbb2;
+}
+.list .list-item-btn{
+    padding: 10px 22px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: #eebf49;
+    border-color:  #eebf49;
+    cursor: pointer;
+    margin-left: 60px;
+    font-size: 18px;
+}
+
+
+
+.section{
+    margin-top: 100px;
+}
+.home{
+    display: flex;
+}
+.home .home-left h1{
+    font-size: 70px;
+    margin-left: 30px;
+}
+.hero-right p{
+    font-size: 18px;
+    margin-left: 160px;
+   margin-top: 40px;
+   line-height: 30px;
+}
+
+
+.banner{
+    margin-top: 100px;
+}
+.banner  .banner-container img{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}
