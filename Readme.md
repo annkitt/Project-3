@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 3 [Live link]()
+## Project 3 [Live link](https://lawhomeage.netlify.app/)
 
 - Skills Gained in this project 
     - Learned to use **Object-fit & Object-positon** for image.
